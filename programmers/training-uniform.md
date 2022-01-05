@@ -2,7 +2,7 @@
 [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42862)   
 [풀이 링크](training-uniform.py)  
 
-##문제 설명
+## 문제 설명
 
 
 ## 풀이
