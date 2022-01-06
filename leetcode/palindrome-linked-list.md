@@ -1,4 +1,4 @@
-# two-sum
+# palindrome-linked-list
 [문제 링크](https://leetcode.com/problems/palindrome-linked-list/)   
 [풀이 링크](two-sum.py)  
 

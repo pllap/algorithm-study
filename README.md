@@ -8,6 +8,7 @@
 [9. palindrome-number](leetcode/palindrome-number.md )  
 [234. palindrome-linked-list](leetcode/palindrome-linked-list.md )  
 [125. valid-palindrome](leetcode/valid-palindrome.md )  
+[704. binary-search](leetcode/binary-search.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
