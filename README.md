@@ -11,6 +11,7 @@
 [704. binary-search](leetcode/binary-search.md )  
 [278. first-bad-version](leetcode/first-bad-version.md )  
 [35. search-insert-position](leetcode/search-insert-position.md )  
+[977. squares-of-a-sorted-array](leetcode/squares-of-a-sorted-array.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
