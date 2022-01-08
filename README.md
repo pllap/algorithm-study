@@ -14,6 +14,7 @@
 [977. squares-of-a-sorted-array](leetcode/squares-of-a-sorted-array.md )  
 [189. rotate-array](leetcode/rotate-array.md )  
 [4. median-of-two-sorted-arrays](leetcode/median-of-two-sorted-arrays.md )  
+[283. move-zeros](leetcode/move-zeros.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
