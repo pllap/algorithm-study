@@ -26,6 +26,7 @@
 [136. single-number](leetcode/single-number.md )  
 [733. flood-fill](leetcode/flood-fill.md )  
 [695. max-area-of-island](leetcode/max-area-of-island.md )  
+[169. majority-element](leetcode/majority-element.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
