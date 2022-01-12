@@ -23,6 +23,7 @@
 [1137. n-th-tribonacci-number](leetcode/n-th-tribonacci-number.md )  
 [3. longest-substring-without-repeating-characters](leetcode/longest-substring-without-repeating-characters.md )  
 [567. permutation-in-string](leetcode/permutation-in-string.md )  
+[136. single-number](leetcode/single-number.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
