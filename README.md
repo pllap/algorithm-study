@@ -25,6 +25,7 @@
 [567. permutation-in-string](leetcode/permutation-in-string.md )  
 [136. single-number](leetcode/single-number.md )  
 [733. flood-fill](leetcode/flood-fill.md )  
+[695. max-area-of-island](leetcode/max-area-of-island.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
