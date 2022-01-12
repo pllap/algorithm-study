@@ -1,5 +1,5 @@
 # longest-substring-without-repeating-characters
-[문제 링크](https://leetcode.com/problems/https://leetcode.com/problems/longest-substring-without-repeating-characters/ )   
+[문제 링크](https://leetcode.com/problems/longest-substring-without-repeating-characters/ )   
 [풀이 링크](longest-substring-without-repeating-characters.py )  
 
 ## 문제 설명

@@ -1,5 +1,5 @@
 # single-number
-[문제 링크](https://leetcode.com/problems/https://leetcode.com/problems/single-number/ )   
+[문제 링크](https://leetcode.com/problems/single-number/ )   
 [풀이 링크](single-number.py )  
 
 ## 문제 설명
