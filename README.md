@@ -28,6 +28,7 @@
 [695. max-area-of-island](leetcode/max-area-of-island.md )  
 [169. majority-element](leetcode/majority-element.md )  
 [617. merge-two-binary-trees](leetcode/merge-two-binary-trees.md )  
+[116. populating-next-right-pointers-in-each-node](leetcode/populating-next-right-pointers-in-each-node.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
