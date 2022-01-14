@@ -13,7 +13,7 @@ def solution(brown, yellow):
     while len(lengths) > 1:
         width = lengths.pop() + 2
         height = lengths.popleft() + 2
-        if 2 * width + 2 * height - 4 == brown:
+        if width * height == brown + yellow:
             return [width, height]
     import math
     return [math.sqrt(brown + yellow), math.sqrt(brown + yellow)]
