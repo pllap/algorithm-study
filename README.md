@@ -29,6 +29,7 @@
 [169. majority-element](leetcode/majority-element.md )  
 [617. merge-two-binary-trees](leetcode/merge-two-binary-trees.md )  
 [116. populating-next-right-pointers-in-each-node](leetcode/populating-next-right-pointers-in-each-node.md )  
+[70. climbing-stairs](leetcode/climbing-stairs.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
