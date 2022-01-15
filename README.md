@@ -30,6 +30,7 @@
 [617. merge-two-binary-trees](leetcode/merge-two-binary-trees.md )  
 [116. populating-next-right-pointers-in-each-node](leetcode/populating-next-right-pointers-in-each-node.md )  
 [70. climbing-stairs](leetcode/climbing-stairs.md )  
+[746. min-cost-climbing-stairs](leetcode/min-cost-climbing-stairs.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
