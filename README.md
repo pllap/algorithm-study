@@ -32,6 +32,7 @@
 [70. climbing-stairs](leetcode/climbing-stairs.md )  
 [746. min-cost-climbing-stairs](leetcode/min-cost-climbing-stairs.md )  
 [2. add-two-numbers](leetcode/add-two-numbers.md )  
+[15. 3sum](leetcode/3sum.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
