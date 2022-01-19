@@ -35,6 +35,7 @@
 [15. 3sum](leetcode/3sum.md )  
 [75. sort-colors](leetcode/sort-colors.md )  
 [542. 01-matrix](leetcode/01-matrix.md )  
+[21. merge-two-sorted-lists](leetcode/merge-two-sorted-lists.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
