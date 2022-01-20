@@ -37,6 +37,7 @@
 [542. 01-matrix](leetcode/01-matrix.md )  
 [21. merge-two-sorted-lists](leetcode/merge-two-sorted-lists.md )  
 [206. reverse-linked-list](leetcode/reverse-linked-list.md )  
+[994. rotting-oranges](leetcode/rotting-oranges.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
