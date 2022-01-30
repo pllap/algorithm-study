@@ -46,6 +46,7 @@
 [119. pascals-triangle-ii](leetcode/pascals-triangle-ii.md )  
 [48. rotate-image](leetcode/rotate-image.md )  
 [59. Spiral Matrix II](leetcode/spiral-matrix-ii.md )  
+[190. Reverse Bits](leetcode/reverse-bits.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
