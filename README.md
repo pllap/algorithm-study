@@ -58,3 +58,4 @@
 [큰 수 만들기](programmers/make-big-number.md )  
 [교점에 별 만들기](programmers/make-star-at-intersection-point.md )  
 [여행경로](programmers/travel-path.md )  
+[디스크 컨트롤러](programmers/disc-controller.md )  
