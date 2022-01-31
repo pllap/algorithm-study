@@ -60,3 +60,6 @@
 [여행경로](programmers/travel-path.md )  
 [디스크 컨트롤러](programmers/disc-controller.md )  
 [입국심사](programmers/immigration.md )  
+
+### BOJ
+[1920. 수 찾기](https://www.acmicpc.net/problem/1920)  
