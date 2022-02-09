@@ -53,6 +53,7 @@
 [525. Contiguous Array](leetcode/contiguous-array.md )  
 [389. Find the Difference](leetcode/find-the-difference.md )  
 [258. Add Digits](leetcode/add-digits.md )  
+[532. K-diff Pairs in an Array](leetcode/KDiffPairsInAnArray.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
