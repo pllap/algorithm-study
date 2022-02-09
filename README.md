@@ -54,6 +54,7 @@
 [389. Find the Difference](leetcode/find-the-difference.md )  
 [258. Add Digits](leetcode/add-digits.md )  
 [532. K-diff Pairs in an Array](leetcode/KDiffPairsInAnArray.md )  
+[22. Generate Parentheses](leetcode/generate-parentheses.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
