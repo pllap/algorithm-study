@@ -1,6 +1,8 @@
-# permutation-in-string
-[문제 링크](https://leetcode.com/problems/longest-substring-without-repeating-characters/ )   
-[풀이 링크](longest-substring-without-repeating-characters.py )  
+# 567. Permutation in String
+[문제 링크](https://leetcode.com/problems/permutation-in-string/ )   
+풀이 링크  
+* [Python](permutation-in-string.py )  
+* [Java](PermutationInString.java )  
 
 ## 문제 설명
 문자열 `s1`과 `s2`가 주어진다. `s2` 안에 `s1`의 순열이 포함되면 `true`를, 아니면 `false`를 반환하는 함수를 작성하라.  
