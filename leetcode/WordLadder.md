@@ -1,5 +1,5 @@
 # 127. Word Ladder
-[문제 링크](https://leetcode.com/problems/permutation-in-string/ )   
+[문제 링크](https://leetcode.com/problems/word-ladder/ )   
 [풀이 링크](WordLadder.java )  
 
 ## 문제 설명
