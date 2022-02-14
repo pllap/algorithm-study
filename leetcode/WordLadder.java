@@ -1,5 +1,3 @@
-package com.pllap.leetcode;
-
 import java.util.*;
 
 public class WordLadder {
