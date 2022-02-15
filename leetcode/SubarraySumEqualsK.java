@@ -1,5 +1,3 @@
-package com.pllap.leetcode;
-
 public class SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         int answer = 0;
