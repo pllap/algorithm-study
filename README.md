@@ -60,6 +60,7 @@
 [78. Subsets](leetcode/Subsets.md )  
 [80. Remove Duplicates from Sorted Array II](leetcode/RemoveDuplicatesFromSortedArrayII.md )  
 [104. Maximum Depth of Binary Tree](leetcode/MaximumDepthOfBinaryTree.md )  
+[24. Swap Nodes in Pairs](leetcode/SwapNodesInPairs.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
