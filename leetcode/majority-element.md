@@ -1,7 +1,8 @@
-# majority-element
+# 169. Majority Element
 [문제 링크](https://leetcode.com/problems/majority-element/ )  
-[풀이 링크](majority-element.py )  
-
+풀이 링크  
+* [Python](majority-element.py )  
+* [Java](MajorityElement.java )  
 ## 문제 설명
 길이가 `n`인 리스트 `nums`가 주어진다. 리스트의 최빈값을 리턴하는 함수를 작성하라.  
 최빈값은 반드시 `n/2`개보다 많이 들어 있다.
