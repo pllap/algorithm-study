@@ -87,4 +87,5 @@
 [정수 삼각형](programmers/IntegerTriangle.md )  
 
 ### BOJ
-[1920. 수 찾기](https://www.acmicpc.net/problem/1920)  
+[1920. 수 찾기](boj/1920-find-number.md )  
+[1463. 1로 만들기](boj/dp/S1463.md )  
