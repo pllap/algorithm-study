@@ -69,6 +69,7 @@
 [13. Roman to Integer](leetcode/RomanToInteger.md )  
 [228. Summary Ranges](leetcode/SummaryRanges.md )  
 [338. Counting Bits](leetcode/CountingBits.md )  
+[392. Is Subsequence](leetcode/IsSubsequence.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
