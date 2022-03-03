@@ -70,6 +70,7 @@
 [228. Summary Ranges](leetcode/SummaryRanges.md )  
 [338. Counting Bits](leetcode/CountingBits.md )  
 [392. Is Subsequence](leetcode/IsSubsequence.md )  
+[413. Arithmetic Slices](leetcode/dp/LC413.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
