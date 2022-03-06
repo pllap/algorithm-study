@@ -73,6 +73,7 @@
 [413. Arithmetic Slices](leetcode/dp/LC413.md )  
 [799. Champagne Tower](leetcode/dp/LC799.md )  
 [740. Delete and Earn](leetcode/dp/LC740.md )  
+[1359. Count All Valid Pickup and Delivery Options](leetcode/dp/LC1359.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
