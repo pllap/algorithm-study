@@ -1,5 +1,3 @@
-package com.pllap.leetcode.dp;
-
 public class LC1359 {
 
     public int countOrders(int n) {

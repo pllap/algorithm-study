@@ -1,5 +1,3 @@
-package com.pllap.leetcode.dp;
-
 public class LC799 {
     public double champagneTower(int poured, int queryRow, int queryGlass) {
 

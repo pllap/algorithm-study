@@ -1,5 +1,3 @@
-package leetcode;
-
 public class ExcelSheetColumnNumber {
     public int titleToNumber(String columnTitle) {
         int[] column = new int[26];

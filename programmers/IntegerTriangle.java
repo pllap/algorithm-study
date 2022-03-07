@@ -1,5 +1,3 @@
-package programmers;
-
 public class IntegerTriangle {
     public int solution(int[][] triangle) {
         for (int lineIndex = triangle.length - 2; lineIndex > -1; --lineIndex) {

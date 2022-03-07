@@ -1,5 +1,3 @@
-package com.pllap.leetcode;
-
 public class LC21 {
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

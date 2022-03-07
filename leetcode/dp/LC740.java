@@ -1,5 +1,3 @@
-package com.pllap.leetcode.dp;
-
 public class LC740 {
     public int deleteAndEarn(int[] nums) {
 

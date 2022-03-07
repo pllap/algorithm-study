@@ -1,5 +1,3 @@
-package com.pllap.leetcode.dp;
-
 public class LC413 {
     public int numberOfArithmeticSlices(int[] nums) {
 
