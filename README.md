@@ -75,6 +75,7 @@
 [740. Delete and Earn](leetcode/dp/LC740.md )  
 [1359. Count All Valid Pickup and Delivery Options](leetcode/dp/LC1359.md )  
 [299. Bulls and Cows](leetcode/LC299.md )  
+[141. Linked List Cycle](leetcode/LC141.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
