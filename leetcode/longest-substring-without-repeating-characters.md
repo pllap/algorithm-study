@@ -1,6 +1,9 @@
 # longest-substring-without-repeating-characters
 [문제 링크](https://leetcode.com/problems/longest-substring-without-repeating-characters/ )   
-[풀이 링크](longest-substring-without-repeating-characters.py )  
+풀이 링크
+* [python](longest-substring-without-repeating-characters.py )  
+* [java](LC3.java )  
+
 
 ## 문제 설명
 문자열 `s`에서, 같은 글자가 두 번 이상 쓰이지 않는 가장 긴 부분 문자열의 길이를 계산해서 리턴하는 함수를 작성하라.  
