@@ -79,6 +79,7 @@
 [82. Remove Duplicates from Sorted List II](leetcode/LC82.md )  
 [26. Remove Duplicates from Sorted Array](leetcode/LC26.md )  
 [61. Rotate List](leetcode/LC61.md )  
+[138. Copy List with Random Pointer](leetcode/LC138.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
