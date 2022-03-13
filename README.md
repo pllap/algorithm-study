@@ -80,6 +80,7 @@
 [26. Remove Duplicates from Sorted Array](leetcode/LC26.md )  
 [61. Rotate List](leetcode/LC61.md )  
 [138. Copy List with Random Pointer](leetcode/LC138.md )  
+[20. Valid Parentheses](leetcode/LC20.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
