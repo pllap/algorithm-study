@@ -82,6 +82,7 @@
 [138. Copy List with Random Pointer](leetcode/LC138.md )  
 [20. Valid Parentheses](leetcode/LC20.md )  
 [71. Simplify Path](leetcode/LC71.md )  
+[1249. Minimum Remove to Make Valid Parentheses](leetcode/LC1249.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
