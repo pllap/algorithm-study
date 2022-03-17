@@ -84,6 +84,7 @@
 [71. Simplify Path](leetcode/LC71.md )  
 [1249. Minimum Remove to Make Valid Parentheses](leetcode/LC1249.md )  
 [946. Validate Stack Sequences](leetcode/LC946.md )  
+[856. Score of Parentheses](leetcode/LC856.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
