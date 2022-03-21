@@ -89,6 +89,7 @@
 [1007. Minimum Domino Rotations For Equal Row](leetcode/LC895.md )  
 [239. Sliding Window Maximum](leetcode/LC239.md )  
 [387. First Unique Character in a String](leetcode/LC387.md )  
+[763. Partition Labels](leetcode/LC763.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
