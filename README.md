@@ -87,7 +87,8 @@
 [856. Score of Parentheses](leetcode/LC856.md )  
 [895. Maximum Frequency Stack](leetcode/LC895.md )  
 [1007. Minimum Domino Rotations For Equal Row](leetcode/LC895.md )  
-[239. https://leetcode.com/problems/sliding-window-maximum/](leetcode/LC239.md )  
+[239. Sliding Window Maximum](leetcode/LC239.md )  
+[387. First Unique Character in a String](leetcode/LC387.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
