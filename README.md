@@ -90,6 +90,7 @@
 [239. Sliding Window Maximum](leetcode/LC239.md )  
 [387. First Unique Character in a String](leetcode/LC387.md )  
 [763. Partition Labels](leetcode/LC763.md )  
+[1663. Smallest String With A Given Numeric Value](leetcode/LC1663.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
