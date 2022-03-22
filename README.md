@@ -91,6 +91,7 @@
 [387. First Unique Character in a String](leetcode/LC387.md )  
 [763. Partition Labels](leetcode/LC763.md )  
 [1663. Smallest String With A Given Numeric Value](leetcode/LC1663.md )  
+[7. Reverse Integer](leetcode/LC7.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
