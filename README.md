@@ -96,6 +96,7 @@
 [991. Broken Calculator](leetcode/LC991.md )  
 [881. Boats to Save People](leetcode/LC881.md )  
 [175. Combine Two Tables](leetcode/database/LC175.sql )  
+[1029. Two City Scheduling](leetcode/LC1029.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
