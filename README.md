@@ -100,6 +100,7 @@
 [1337. The K Weakest Rows in a Matrix](leetcode/LC1337.md )  
 [81. Search in Rotated Sorted Array II](leetcode/LC81.md )  
 [287. Find the Duplicate Number](leetcode/LC287.md )  
+[74. Search a 2D Matrix](leetcode/LC74.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
