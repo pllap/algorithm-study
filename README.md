@@ -102,6 +102,7 @@
 [287. Find the Duplicate Number](leetcode/LC287.md )  
 [74. Search a 2D Matrix](leetcode/LC74.md )  
 [344. Reverse String](leetcode/LC344.md )  
+[31. Next Permutation](leetcode/LC31.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
