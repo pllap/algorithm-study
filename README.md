@@ -103,6 +103,7 @@
 [74. Search a 2D Matrix](leetcode/LC74.md )  
 [344. Reverse String](leetcode/LC344.md )  
 [31. Next Permutation](leetcode/LC31.md )  
+[1721. Swapping Nodes in a Linked List](leetcode/LC1721.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
