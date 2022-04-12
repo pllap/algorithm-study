@@ -112,6 +112,7 @@
 [682. Baseball Game](leetcode/LC682.md )  
 [5. Longest Palindromic Substring](leetcode/LC5.md )  
 [1260. Shift 2D Grid](leetcode/LC1260.md )  
+[289. Game of Life](leetcode/LC289.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
