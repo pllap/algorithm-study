@@ -113,6 +113,7 @@
 [5. Longest Palindromic Substring](leetcode/LC5.md )  
 [1260. Shift 2D Grid](leetcode/LC1260.md )  
 [289. Game of Life](leetcode/LC289.md )  
+[538. Convert BST to Greater Tree](leetcode/LC538.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
