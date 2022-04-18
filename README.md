@@ -115,6 +115,7 @@
 [289. Game of Life](leetcode/LC289.md )  
 [538. Convert BST to Greater Tree](leetcode/LC538.md )  
 [897. Increasing Order Search Tree](leetcode/LC897.md )  
+[230. Kth Smallest Element in a BST](leetcode/LC230.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
