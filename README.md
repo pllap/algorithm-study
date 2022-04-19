@@ -116,6 +116,7 @@
 [538. Convert BST to Greater Tree](leetcode/LC538.md )  
 [897. Increasing Order Search Tree](leetcode/LC897.md )  
 [230. Kth Smallest Element in a BST](leetcode/LC230.md )  
+[99. Recover Binary Search Tree](leetcode/LC99.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
