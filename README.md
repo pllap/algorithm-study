@@ -117,7 +117,8 @@
 [897. Increasing Order Search Tree](leetcode/LC897.md )  
 [230. Kth Smallest Element in a BST](leetcode/LC230.md )  
 [99. Recover Binary Search Tree](leetcode/LC99.md )  
-[173. Binary Search Tree Iterator](leetcode/LC173.md )  
+[705. Design HashSet](leetcode/LC705.md )  
+[706. Design HashMap](leetcode/LC706.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
