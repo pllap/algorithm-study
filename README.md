@@ -119,6 +119,7 @@
 [99. Recover Binary Search Tree](leetcode/LC99.md )  
 [705. Design HashSet](leetcode/LC705.md )  
 [706. Design HashMap](leetcode/LC706.md )  
+[1396. Design Underground System](leetcode/LC1396.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
