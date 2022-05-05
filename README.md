@@ -125,6 +125,7 @@
 [785. Is Graph Bipartite?](leetcode/LC785.md )  
 [905. Sort Array By Parity](leetcode/LC905.md )  
 [1679. Max Number of K-Sum Pairs](leetcode/LC1679.md )  
+[225. Implement Stack using Queues](leetcode/LC225.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
