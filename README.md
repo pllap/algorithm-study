@@ -1,5 +1,5 @@
 # algorithm-study
-[LeetCode](https://leetcode.com/problemset/algorithms/ )와 [programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges )에서 풀이한 알고리즘을 정리해 놓은 리포지토리입니다.  
+[LeetCode](https://leetcode.com/problemset/algorithms/ )와 [programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges ), [Bakejoon OJ](https://www.acmicpc.net/ )에서 풀이한 알고리즘을 정리해 놓은 리포지토리입니다.  
 문제 목록은 풀이한 순서대로 나열했습니다.  
 
 ## 문제 목록
@@ -126,6 +126,7 @@
 [905. Sort Array By Parity](leetcode/LC905.md )  
 [1679. Max Number of K-Sum Pairs](leetcode/LC1679.md )  
 [225. Implement Stack using Queues](leetcode/LC225.md )  
+[1209. Remove All Adjacent Duplicates in String II](leetcode/LC1209.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
