@@ -149,3 +149,8 @@
 [10844. 쉬운 계단 수](boj/dp/BOJ10844.md )  
 [11726. 2xn 타일링](boj/dp/BOJ11726.md )  
 [11727. 2xn 타일링 2](boj/dp/BOJ11727.md )  
+[1152. 단어의 개수](boj/string/BOJ1152.md )  
+[2908. 상수](boj/string/BOJ2908.md )  
+[5622. 다이얼](boj/string/BOJ5622.md )  
+[2941. 크로아티아 알파벳](boj/string/BOJ2941.md )  
+[1316. 그룹 단어 체커](boj/string/BOJ1316.md )  
