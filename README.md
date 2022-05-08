@@ -127,6 +127,7 @@
 [1679. Max Number of K-Sum Pairs](leetcode/LC1679.md )  
 [225. Implement Stack using Queues](leetcode/LC225.md )  
 [1209. Remove All Adjacent Duplicates in String II](leetcode/LC1209.md )  
+[341. Flatten Nested List Iterator](leetcode/LC341.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
