@@ -129,6 +129,7 @@
 [1209. Remove All Adjacent Duplicates in String II](leetcode/LC1209.md )  
 [341. Flatten Nested List Iterator](leetcode/LC341.md )  
 [216. Combination Sum III](leetcode/LC216.md )  
+[47. Permutations II](leetcode/LC47.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
