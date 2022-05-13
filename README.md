@@ -130,6 +130,7 @@
 [341. Flatten Nested List Iterator](leetcode/LC341.md )  
 [216. Combination Sum III](leetcode/LC216.md )  
 [47. Permutations II](leetcode/LC47.md )  
+[117. Populating Next Right Pointers in Each Node II](leetcode/LC117.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
