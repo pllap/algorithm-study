@@ -133,6 +133,7 @@
 [117. Populating Next Right Pointers in Each Node II](leetcode/LC117.md )  
 [743. Network Delay Time](leetcode/LC743.md )  
 [1091. Shortest Path in Binary Matrix](leetcode/LC1091.md )  
+[329. Longest Increasing Path in a Matrix](leetcode/LC329.md )  
 
 ### programmers
 [체육복](programmers/training-uniform.md )  
